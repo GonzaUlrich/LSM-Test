@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bb08ac3445c5ce48afb026f1410f1bb, type: 3}
+  m_Name: YellowClothes
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 1476574252, guid: 9fc6e8aa54c18c747830b752235c25eb, type: 3}
+  itemName: 
+  sellPrice: 1
+  buyPrice: 5
+  isEquipped: 0
+  animator: {fileID: 9100000, guid: 40833d355849a334e817266a597d983f, type: 2}
