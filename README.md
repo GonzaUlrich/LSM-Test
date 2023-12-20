@@ -1,4 +1,4 @@
 # Hi!
 
-## This is the LSM test that I made, here i left you the pdf File and the .zip whith the executable in the release secction
+## This is the LSM test that I made, i left you the pdf File and the .zip in the folder "TestBuild" inside the project
 
